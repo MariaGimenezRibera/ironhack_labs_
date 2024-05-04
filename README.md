@@ -27,7 +27,7 @@ Here are the projects included in this repository:
 
 ## Usage
 To explore the projects and assignments in this repository, follow these steps:
-1. Clone the repository to your local machine: `git clone https://github.com/your_username/data-science-coursework.git`
+1. Clone the repository to your local machine: `git clone (https://github.com/MariaGimenezRibera/ironhack_labs_.git)`
 2. Navigate to the project directory: `cd data-science-coursework`
 3. Open the Jupyter Notebooks (.ipynb files) using Jupyter Notebook or JupyterLab to view the code and results.
 4. Feel free to explore the code, run the cells, and experiment with the data.
